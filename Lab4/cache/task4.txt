@@ -1,0 +1,12 @@
+def isBracketsBalance(s):
+    if len(s) % 2 != 0:
+        return False
+    d = Deque(len(s))
+    for c in s:
+        if c == '[':
+            d.push(c)
+        if c == ']':
+            if d.is_empty():
+                return False
+            d.pop()
+    return d.is_empty()
