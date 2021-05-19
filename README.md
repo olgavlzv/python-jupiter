@@ -1,2 +1,16 @@
 # python-jupiter
-Lab1 contains different sort methods and shows the time that each sort takes. This lab also has a matrix generating algorithm.
+Lab1:
+1) "Hello, world!"
+2) Генератор случайных матриц
+3) Методы сортировки строк числовой матрицы
+
+Lab2:
+1) Методы поиска
+2) Рехэширование
+3) Задача с шахматами
+
+Lab3:
+1) Алгоритмы Кнута-Морриса-Пратта и Бойера-Мура (упрощенный)
+2) Пятнашки
+
+Lab4:
